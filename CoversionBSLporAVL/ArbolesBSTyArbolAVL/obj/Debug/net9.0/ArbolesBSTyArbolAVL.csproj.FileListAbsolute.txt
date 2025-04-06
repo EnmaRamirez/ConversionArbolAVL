@@ -1,0 +1,14 @@
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\ARBOLESAVL\CoversionBSLporAVL\ArbolesBSTyArbolAVL\bin\Debug\net9.0\ArbolesBSTyArbolAVL.exe
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\ARBOLESAVL\CoversionBSLporAVL\ArbolesBSTyArbolAVL\bin\Debug\net9.0\ArbolesBSTyArbolAVL.deps.json
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\ARBOLESAVL\CoversionBSLporAVL\ArbolesBSTyArbolAVL\bin\Debug\net9.0\ArbolesBSTyArbolAVL.runtimeconfig.json
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\ARBOLESAVL\CoversionBSLporAVL\ArbolesBSTyArbolAVL\bin\Debug\net9.0\ArbolesBSTyArbolAVL.dll
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\ARBOLESAVL\CoversionBSLporAVL\ArbolesBSTyArbolAVL\bin\Debug\net9.0\ArbolesBSTyArbolAVL.pdb
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\ARBOLESAVL\CoversionBSLporAVL\ArbolesBSTyArbolAVL\obj\Debug\net9.0\ArbolesBSTyArbolAVL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\ARBOLESAVL\CoversionBSLporAVL\ArbolesBSTyArbolAVL\obj\Debug\net9.0\ArbolesBSTyArbolAVL.AssemblyInfoInputs.cache
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\ARBOLESAVL\CoversionBSLporAVL\ArbolesBSTyArbolAVL\obj\Debug\net9.0\ArbolesBSTyArbolAVL.AssemblyInfo.cs
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\ARBOLESAVL\CoversionBSLporAVL\ArbolesBSTyArbolAVL\obj\Debug\net9.0\ArbolesBSTyArbolAVL.csproj.CoreCompileInputs.cache
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\ARBOLESAVL\CoversionBSLporAVL\ArbolesBSTyArbolAVL\obj\Debug\net9.0\ArbolesBSTyArbolAVL.dll
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\ARBOLESAVL\CoversionBSLporAVL\ArbolesBSTyArbolAVL\obj\Debug\net9.0\refint\ArbolesBSTyArbolAVL.dll
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\ARBOLESAVL\CoversionBSLporAVL\ArbolesBSTyArbolAVL\obj\Debug\net9.0\ArbolesBSTyArbolAVL.pdb
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\ARBOLESAVL\CoversionBSLporAVL\ArbolesBSTyArbolAVL\obj\Debug\net9.0\ArbolesBSTyArbolAVL.genruntimeconfig.cache
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\ARBOLESAVL\CoversionBSLporAVL\ArbolesBSTyArbolAVL\obj\Debug\net9.0\ref\ArbolesBSTyArbolAVL.dll

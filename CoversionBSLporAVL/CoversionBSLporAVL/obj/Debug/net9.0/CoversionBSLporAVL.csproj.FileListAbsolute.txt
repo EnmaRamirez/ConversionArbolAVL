@@ -1,0 +1,14 @@
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\ARBOLESAVL\CoversionBSLporAVL\CoversionBSLporAVL\bin\Debug\net9.0\CoversionBSLporAVL.exe
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\ARBOLESAVL\CoversionBSLporAVL\CoversionBSLporAVL\bin\Debug\net9.0\CoversionBSLporAVL.deps.json
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\ARBOLESAVL\CoversionBSLporAVL\CoversionBSLporAVL\bin\Debug\net9.0\CoversionBSLporAVL.runtimeconfig.json
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\ARBOLESAVL\CoversionBSLporAVL\CoversionBSLporAVL\bin\Debug\net9.0\CoversionBSLporAVL.dll
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\ARBOLESAVL\CoversionBSLporAVL\CoversionBSLporAVL\bin\Debug\net9.0\CoversionBSLporAVL.pdb
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\ARBOLESAVL\CoversionBSLporAVL\CoversionBSLporAVL\obj\Debug\net9.0\CoversionBSLporAVL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\ARBOLESAVL\CoversionBSLporAVL\CoversionBSLporAVL\obj\Debug\net9.0\CoversionBSLporAVL.AssemblyInfoInputs.cache
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\ARBOLESAVL\CoversionBSLporAVL\CoversionBSLporAVL\obj\Debug\net9.0\CoversionBSLporAVL.AssemblyInfo.cs
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\ARBOLESAVL\CoversionBSLporAVL\CoversionBSLporAVL\obj\Debug\net9.0\CoversionBSLporAVL.csproj.CoreCompileInputs.cache
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\ARBOLESAVL\CoversionBSLporAVL\CoversionBSLporAVL\obj\Debug\net9.0\CoversionBSLporAVL.dll
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\ARBOLESAVL\CoversionBSLporAVL\CoversionBSLporAVL\obj\Debug\net9.0\refint\CoversionBSLporAVL.dll
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\ARBOLESAVL\CoversionBSLporAVL\CoversionBSLporAVL\obj\Debug\net9.0\CoversionBSLporAVL.pdb
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\ARBOLESAVL\CoversionBSLporAVL\CoversionBSLporAVL\obj\Debug\net9.0\CoversionBSLporAVL.genruntimeconfig.cache
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\ARBOLESAVL\CoversionBSLporAVL\CoversionBSLporAVL\obj\Debug\net9.0\ref\CoversionBSLporAVL.dll

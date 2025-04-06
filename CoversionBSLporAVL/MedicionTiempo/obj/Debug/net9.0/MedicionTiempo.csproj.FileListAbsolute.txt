@@ -1,0 +1,14 @@
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\ARBOLESAVL\CoversionBSLporAVL\MedicionTiempo\bin\Debug\net9.0\MedicionTiempo.exe
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\ARBOLESAVL\CoversionBSLporAVL\MedicionTiempo\bin\Debug\net9.0\MedicionTiempo.deps.json
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\ARBOLESAVL\CoversionBSLporAVL\MedicionTiempo\bin\Debug\net9.0\MedicionTiempo.runtimeconfig.json
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\ARBOLESAVL\CoversionBSLporAVL\MedicionTiempo\bin\Debug\net9.0\MedicionTiempo.dll
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\ARBOLESAVL\CoversionBSLporAVL\MedicionTiempo\bin\Debug\net9.0\MedicionTiempo.pdb
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\ARBOLESAVL\CoversionBSLporAVL\MedicionTiempo\obj\Debug\net9.0\MedicionTiempo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\ARBOLESAVL\CoversionBSLporAVL\MedicionTiempo\obj\Debug\net9.0\MedicionTiempo.AssemblyInfoInputs.cache
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\ARBOLESAVL\CoversionBSLporAVL\MedicionTiempo\obj\Debug\net9.0\MedicionTiempo.AssemblyInfo.cs
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\ARBOLESAVL\CoversionBSLporAVL\MedicionTiempo\obj\Debug\net9.0\MedicionTiempo.csproj.CoreCompileInputs.cache
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\ARBOLESAVL\CoversionBSLporAVL\MedicionTiempo\obj\Debug\net9.0\MedicionTiempo.dll
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\ARBOLESAVL\CoversionBSLporAVL\MedicionTiempo\obj\Debug\net9.0\refint\MedicionTiempo.dll
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\ARBOLESAVL\CoversionBSLporAVL\MedicionTiempo\obj\Debug\net9.0\MedicionTiempo.pdb
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\ARBOLESAVL\CoversionBSLporAVL\MedicionTiempo\obj\Debug\net9.0\MedicionTiempo.genruntimeconfig.cache
+C:\Users\enma2\OneDrive\Escritorio\ProgramacionIII\ARBOLESAVL\CoversionBSLporAVL\MedicionTiempo\obj\Debug\net9.0\ref\MedicionTiempo.dll

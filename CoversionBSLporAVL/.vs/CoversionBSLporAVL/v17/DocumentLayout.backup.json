@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enma2\\OneDrive\\Escritorio\\ProgramacionIII\\ARBOLESAVL\\CoversionBSLporAVL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1D59B9-E958-45E0-970E-9B4093B68714}|ArbolesBSTyArbolAVL\\ArbolesBSTyArbolAVL.csproj|c:\\users\\enma2\\onedrive\\escritorio\\programacioniii\\arbolesavl\\coversionbslporavl\\arbolesbstyarbolavl\\nodoavl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1D59B9-E958-45E0-970E-9B4093B68714}|ArbolesBSTyArbolAVL\\ArbolesBSTyArbolAVL.csproj|solutionrelative:arbolesbstyarbolavl\\nodoavl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1D59B9-E958-45E0-970E-9B4093B68714}|ArbolesBSTyArbolAVL\\ArbolesBSTyArbolAVL.csproj|c:\\users\\enma2\\onedrive\\escritorio\\programacioniii\\arbolesavl\\coversionbslporavl\\arbolesbstyarbolavl\\arbolavl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1D59B9-E958-45E0-970E-9B4093B68714}|ArbolesBSTyArbolAVL\\ArbolesBSTyArbolAVL.csproj|solutionrelative:arbolesbstyarbolavl\\arbolavl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1D59B9-E958-45E0-970E-9B4093B68714}|ArbolesBSTyArbolAVL\\ArbolesBSTyArbolAVL.csproj|c:\\users\\enma2\\onedrive\\escritorio\\programacioniii\\arbolesavl\\coversionbslporavl\\arbolesbstyarbolavl\\arbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1D59B9-E958-45E0-970E-9B4093B68714}|ArbolesBSTyArbolAVL\\ArbolesBSTyArbolAVL.csproj|solutionrelative:arbolesbstyarbolavl\\arbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD978A6E-FBF0-4A4F-8AD9-B4EBA111B7BB}|CoversionBSLporAVL\\CoversionBSLporAVL.csproj|c:\\users\\enma2\\onedrive\\escritorio\\programacioniii\\arbolesavl\\coversionbslporavl\\coversionbslporavl\\coversionbslporavl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD978A6E-FBF0-4A4F-8AD9-B4EBA111B7BB}|CoversionBSLporAVL\\CoversionBSLporAVL.csproj|solutionrelative:coversionbslporavl\\coversionbslporavl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD978A6E-FBF0-4A4F-8AD9-B4EBA111B7BB}|CoversionBSLporAVL\\CoversionBSLporAVL.csproj|c:\\users\\enma2\\onedrive\\escritorio\\programacioniii\\arbolesavl\\coversionbslporavl\\coversionbslporavl\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD978A6E-FBF0-4A4F-8AD9-B4EBA111B7BB}|CoversionBSLporAVL\\CoversionBSLporAVL.csproj|solutionrelative:coversionbslporavl\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6F32CB-06A5-4E94-8AC2-F06ABE18E9DC}|MedicionTiempo\\MedicionTiempo.csproj|c:\\users\\enma2\\onedrive\\escritorio\\programacioniii\\arbolesavl\\coversionbslporavl\\mediciontiempo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6F32CB-06A5-4E94-8AC2-F06ABE18E9DC}|MedicionTiempo\\MedicionTiempo.csproj|solutionrelative:mediciontiempo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6F32CB-06A5-4E94-8AC2-F06ABE18E9DC}|MedicionTiempo\\MedicionTiempo.csproj|c:\\users\\enma2\\onedrive\\escritorio\\programacioniii\\arbolesavl\\coversionbslporavl\\mediciontiempo\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6F32CB-06A5-4E94-8AC2-F06ABE18E9DC}|MedicionTiempo\\MedicionTiempo.csproj|solutionrelative:mediciontiempo\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6F32CB-06A5-4E94-8AC2-F06ABE18E9DC}|MedicionTiempo\\MedicionTiempo.csproj|c:\\users\\enma2\\onedrive\\escritorio\\programacioniii\\arbolesavl\\coversionbslporavl\\mediciontiempo\\arbolavl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6F32CB-06A5-4E94-8AC2-F06ABE18E9DC}|MedicionTiempo\\MedicionTiempo.csproj|solutionrelative:mediciontiempo\\arbolavl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6F32CB-06A5-4E94-8AC2-F06ABE18E9DC}|MedicionTiempo\\MedicionTiempo.csproj|c:\\users\\enma2\\onedrive\\escritorio\\programacioniii\\arbolesavl\\coversionbslporavl\\mediciontiempo\\abolbst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6F32CB-06A5-4E94-8AC2-F06ABE18E9DC}|MedicionTiempo\\MedicionTiempo.csproj|solutionrelative:mediciontiempo\\abolbst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD978A6E-FBF0-4A4F-8AD9-B4EBA111B7BB}|CoversionBSLporAVL\\CoversionBSLporAVL.csproj|c:\\users\\enma2\\onedrive\\escritorio\\programacioniii\\arbolesavl\\coversionbslporavl\\coversionbslporavl\\arbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD978A6E-FBF0-4A4F-8AD9-B4EBA111B7BB}|CoversionBSLporAVL\\CoversionBSLporAVL.csproj|solutionrelative:coversionbslporavl\\arbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Arbol.cs",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\ProgramacionIII\\ARBOLESAVL\\CoversionBSLporAVL\\ArbolesBSTyArbolAVL\\Arbol.cs",
+              "RelativeDocumentMoniker": "ArbolesBSTyArbolAVL\\Arbol.cs",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\ProgramacionIII\\ARBOLESAVL\\CoversionBSLporAVL\\ArbolesBSTyArbolAVL\\Arbol.cs",
+              "RelativeToolTip": "ArbolesBSTyArbolAVL\\Arbol.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAqwIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T04:39:38.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NodoAVL.cs",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\ProgramacionIII\\ARBOLESAVL\\CoversionBSLporAVL\\ArbolesBSTyArbolAVL\\NodoAVL.cs",
+              "RelativeDocumentMoniker": "ArbolesBSTyArbolAVL\\NodoAVL.cs",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\ProgramacionIII\\ARBOLESAVL\\CoversionBSLporAVL\\ArbolesBSTyArbolAVL\\NodoAVL.cs",
+              "RelativeToolTip": "ArbolesBSTyArbolAVL\\NodoAVL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T04:36:28.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArbolAVL.cs",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\ProgramacionIII\\ARBOLESAVL\\CoversionBSLporAVL\\ArbolesBSTyArbolAVL\\ArbolAVL.cs",
+              "RelativeDocumentMoniker": "ArbolesBSTyArbolAVL\\ArbolAVL.cs",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\ProgramacionIII\\ARBOLESAVL\\CoversionBSLporAVL\\ArbolesBSTyArbolAVL\\ArbolAVL.cs",
+              "RelativeToolTip": "ArbolesBSTyArbolAVL\\ArbolAVL.cs",
+              "ViewState": "AgIAAB4BAAAAAAAAAAAqwD0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T04:35:50.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Nodo.cs",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\ProgramacionIII\\ARBOLESAVL\\CoversionBSLporAVL\\CoversionBSLporAVL\\Nodo.cs",
+              "RelativeDocumentMoniker": "CoversionBSLporAVL\\Nodo.cs",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\ProgramacionIII\\ARBOLESAVL\\CoversionBSLporAVL\\CoversionBSLporAVL\\Nodo.cs",
+              "RelativeToolTip": "CoversionBSLporAVL\\Nodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T03:42:01.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CoversionBSLporAVL.csproj",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\ProgramacionIII\\ARBOLESAVL\\CoversionBSLporAVL\\CoversionBSLporAVL\\CoversionBSLporAVL.csproj",
+              "RelativeDocumentMoniker": "CoversionBSLporAVL\\CoversionBSLporAVL.csproj",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\ProgramacionIII\\ARBOLESAVL\\CoversionBSLporAVL\\CoversionBSLporAVL\\CoversionBSLporAVL.csproj",
+              "RelativeToolTip": "CoversionBSLporAVL\\CoversionBSLporAVL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-06T03:42:34.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\ProgramacionIII\\ARBOLESAVL\\CoversionBSLporAVL\\MedicionTiempo\\Program.cs",
+              "RelativeDocumentMoniker": "MedicionTiempo\\Program.cs",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\ProgramacionIII\\ARBOLESAVL\\CoversionBSLporAVL\\MedicionTiempo\\Program.cs",
+              "RelativeToolTip": "MedicionTiempo\\Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwEsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T03:49:41.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Nodo.cs",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\ProgramacionIII\\ARBOLESAVL\\CoversionBSLporAVL\\MedicionTiempo\\Nodo.cs",
+              "RelativeDocumentMoniker": "MedicionTiempo\\Nodo.cs",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\ProgramacionIII\\ARBOLESAVL\\CoversionBSLporAVL\\MedicionTiempo\\Nodo.cs",
+              "RelativeToolTip": "MedicionTiempo\\Nodo.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T03:48:26.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "abolBST.cs",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\ProgramacionIII\\ARBOLESAVL\\CoversionBSLporAVL\\MedicionTiempo\\abolBST.cs",
+              "RelativeDocumentMoniker": "MedicionTiempo\\abolBST.cs",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\ProgramacionIII\\ARBOLESAVL\\CoversionBSLporAVL\\MedicionTiempo\\abolBST.cs",
+              "RelativeToolTip": "MedicionTiempo\\abolBST.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAA5wE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T03:51:16.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "arbolAVL.cs",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\ProgramacionIII\\ARBOLESAVL\\CoversionBSLporAVL\\MedicionTiempo\\arbolAVL.cs",
+              "RelativeDocumentMoniker": "MedicionTiempo\\arbolAVL.cs",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\ProgramacionIII\\ARBOLESAVL\\CoversionBSLporAVL\\MedicionTiempo\\arbolAVL.cs",
+              "RelativeToolTip": "MedicionTiempo\\arbolAVL.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAwwJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T03:50:24.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Arbol.cs",
+              "DocumentMoniker": "C:\\Users\\enma2\\OneDrive\\Escritorio\\ProgramacionIII\\ARBOLESAVL\\CoversionBSLporAVL\\CoversionBSLporAVL\\Arbol.cs",
+              "RelativeDocumentMoniker": "CoversionBSLporAVL\\Arbol.cs",
+              "ToolTip": "C:\\Users\\enma2\\OneDrive\\Escritorio\\ProgramacionIII\\ARBOLESAVL\\CoversionBSLporAVL\\CoversionBSLporAVL\\Arbol.cs",
+              "RelativeToolTip": "CoversionBSLporAVL\\Arbol.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAwwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T03:42:44.678Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
